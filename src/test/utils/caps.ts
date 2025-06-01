@@ -3,9 +3,9 @@ class Caps {
     emulator =
     [{
       'appium:platformName': 'android',
-      'appium:deviceName': 'nexus',
+      'appium:deviceName': 'Pixel 9 Pro',
       'appium:app':'./src/test/api.apk',
-      'appium:platformVersion': '11',
+      'appium:platformVersion': '16',
       'appium:uiautomator2ServerInstallTimeout': 150000,
       'appium:appWaitForLaunch': true,
       'appium:disableWindowAnimation': true,

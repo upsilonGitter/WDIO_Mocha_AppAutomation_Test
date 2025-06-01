@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "007f4c5c-a22a-4c5d-a9ce-d5cc407bce83"
+      }
+    },
+    "android": {
+      "package": "com.testaccount127.wdioemulatorpipeline"
+    }
+  }
+}
